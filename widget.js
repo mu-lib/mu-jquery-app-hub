@@ -4,11 +4,11 @@
   } else if (typeof module === "object" && module.exports) {
     module.exports = factory.apply(root, modules.map(require));
   } else {
-    root["mu-jquery-app-hub/widget"] = factory.apply(root, modules.map(function (m) {
+    root["mu-jquery-widget-hub/widget"] = factory.apply(root, modules.map(function (m) {
       return root[m];
     }));
   }
-})(["mu-jquery-app/widget"], this, function (widget) {
+})(["mu-jquery-widget/widget"], this, function (widget) {
   var slice = Array.prototype.slice;
 
   return Array.prototype.concat.call(
