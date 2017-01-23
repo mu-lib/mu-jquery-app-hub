@@ -1,0 +1,29 @@
+{
+  "name": "mu-jquery-app-hub",
+  "version": "1.0.0",
+  "description": "Micro jQuery Application hub facet",
+  "main": "",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-jquery-app-hub.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-jquery-app-hub/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-jquery-app-hub#readme",
+  "dependencies": {
+    "mu-jquery-app": "^10.0.0"
+  },
+  "devDependencies": {
+    "standard-version": "^2.4.0"
+  },
+  "peerDependencies": {
+    "jquery": "^3.0.0",
+    "mu-jquery-hub": "^1.1.5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mu-jquery-app-hub",
+  "authors": [
+    "Mikael Karon <mikael@karon.se>"
+  ],
+  "description": "Micro jQuery Application hub facet",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "examples"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "mu-jquery-app": "^10.0.0",
+    "mu-jquery-hub": "^1.1.5"
+  }
+}
