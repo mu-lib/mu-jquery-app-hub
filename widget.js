@@ -11,7 +11,7 @@
 })(["mu-jquery-app/widget"], this, function (widget) {
   var slice = Array.prototype.slice;
 
-  Array.prototype.concat.call(
+  return Array.prototype.concat.call(
     widget,
     function ($element, ns, opt) {
       var me = this;
