@@ -1,12 +1,12 @@
 {
-  "name": "mu-jquery-widget-hub",
+  "name": "mu-jquery-app-hub",
   "authors": [
     "Mikael Karon <mikael@karon.se>"
   ],
-  "description": "Micro jQuery Application hub facet",
+  "description": "Micro jQuery application hub facet",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/mu-lib/mu-jquery-app-hub#readme",
   "ignore": [
     "**/.*",
     "node_modules",

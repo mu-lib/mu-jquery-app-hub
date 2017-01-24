@@ -1,30 +1,30 @@
 {
-  "name": "mu-jquery-widget-hub",
+  "name": "mu-jquery-app-hub",
   "version": "2.0.0",
-  "description": "Micro jQuery widget hub facet",
+  "description": "Micro jQuery application hub facet",
   "main": "",
   "scripts": {
     "release": "standard-version"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mu-lib/mu-jquery-widget-hub.git"
+    "url": "git+https://github.com/mu-lib/mu-jquery-app-hub.git"
   },
   "author": "Mikael Karon <mikael@karon.se>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mu-lib/mu-jquery-widget-hub/issues"
+    "url": "https://github.com/mu-lib/mu-jquery-app-hub/issues"
   },
-  "homepage": "https://github.com/mu-lib/mu-jquery-widget-hub#readme",
+  "homepage": "https://github.com/mu-lib/mu-jquery-app-hub#readme",
   "dependencies": {
-    "mu-create": "^5.0.1",
-    "mu-jquery-widget": "^9.1.0"
+    "mu-create": "^5.0.1"
   },
   "devDependencies": {
     "standard-version": "^2.4.0"
   },
   "peerDependencies": {
     "jquery": "^3.0.0",
-    "mu-jquery-hub": "^1.1.5"
+    "mu-jquery-hub": "^1.1.5",
+    "mu-jquery-app": "^11.0.0"
   }
 }
