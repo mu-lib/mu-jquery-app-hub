@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v2.0.0...v3.0.0) (2017-01-24)
+
+
+### Features
+
+* refactor and rename package ([43725b6](https://github.com/mu-lib/mu-jquery-app-hub/commit/43725b6))
+
+
+### BREAKING CHANGES
+
+* Package renamed again
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/mu-lib/mu-jquery-widget-hub/compare/v1.0.2...v2.0.0) (2017-01-23)
 
