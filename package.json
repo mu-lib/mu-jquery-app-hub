@@ -17,14 +17,13 @@
   },
   "homepage": "https://github.com/mu-lib/mu-jquery-app-hub#readme",
   "dependencies": {
-    "mu-create": "^5.0.1"
+    "mu-jquery-app": "^11.0.0"
   },
   "devDependencies": {
     "standard-version": "^2.4.0"
   },
   "peerDependencies": {
     "jquery": "^3.0.0",
-    "mu-jquery-hub": "^1.1.5",
-    "mu-jquery-app": "^11.0.0"
+    "mu-jquery-hub": "^1.1.5"
   }
 }
