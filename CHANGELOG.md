@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v3.0.0...v3.1.0) (2017-03-17)
+
+
+### Bug Fixes
+
+* refactor dependencies ([541fb2c](https://github.com/mu-lib/mu-jquery-app-hub/commit/541fb2c))
+
+
+### Features
+
+* add create module ([4156182](https://github.com/mu-lib/mu-jquery-app-hub/commit/4156182))
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v2.0.0...v3.0.0) (2017-01-24)
 
