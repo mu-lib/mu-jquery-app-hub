@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v3.2.0...v4.0.0) (2017-03-18)
+
+
+### Bug Fixes
+
+* **packaging:** bumped deps ([a652dc4](https://github.com/mu-lib/mu-jquery-app-hub/commit/a652dc4))
+
+
+### BREAKING CHANGES
+
+* packaging: Overlapping rules and specs are now filtered
+
+
+
 <a name="3.2.0"></a>
 # [3.2.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v3.1.2...v3.2.0) (2017-03-18)
 
