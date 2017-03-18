@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.2.0"></a>
+# [3.2.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v3.1.2...v3.2.0) (2017-03-18)
+
+
+### Features
+
+* full featured widget ([b2a214e](https://github.com/mu-lib/mu-jquery-app-hub/commit/b2a214e))
+
+
+
 <a name="3.1.2"></a>
 ## [3.1.2](https://github.com/mu-lib/mu-jquery-app-hub/compare/v3.1.1...v3.1.2) (2017-03-17)
 
