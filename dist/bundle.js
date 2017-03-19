@@ -17,7 +17,7 @@
   umd("mu-jquery-app-hub/widget")(["mu-jquery-widget/widget"], function (widget) {
     var slice = Array.prototype.slice;
 
-    return widget.concat(
+    return widget.extend(
       function ($element, ns, opt) {
         var me = this;
         var $ = $element.constructor;
