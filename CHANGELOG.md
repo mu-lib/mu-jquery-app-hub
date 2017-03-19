@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.0.1"></a>
+## [5.0.1](https://github.com/mu-lib/mu-jquery-app-hub/compare/v5.0.0...v5.0.1) (2017-03-19)
+
+
+### Bug Fixes
+
+* widget.extend vs. widget.concat ([722d8fe](https://github.com/mu-lib/mu-jquery-app-hub/commit/722d8fe))
+
+
+
 <a name="5.0.0"></a>
 # [5.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v4.0.0...v5.0.0) (2017-03-19)
 
