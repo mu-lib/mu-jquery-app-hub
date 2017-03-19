@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.0.0"></a>
+# [5.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v4.0.0...v5.0.0) (2017-03-19)
+
+
+### Features
+
+* bump mu-jquery-app[@13](https://github.com/13).0.0 ([62e35df](https://github.com/mu-lib/mu-jquery-app-hub/commit/62e35df))
+
+
+### BREAKING CHANGES
+
+* With this change `mu-jquery-app-hub/widget` will return a constructor instead of a blueprint.
+
+
+
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v3.2.0...v4.0.0) (2017-03-18)
 
