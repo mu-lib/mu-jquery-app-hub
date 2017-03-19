@@ -4,12 +4,14 @@
   } else if (typeof module === "object" && module.exports) {
     module.exports = factory.apply(root, modules.map(require));
   } else {
-    root["mu-jquery-app-hub/widget"] = factory.apply(root, modules);
+    root["mu-jquery-app-hub/widget"] = factory.apply(root, modules.map(function (m) {
+      return root[m.replace(/^\./, "mu-jquery-app-hub")];
+    }));
   }
-})(["mu-jquery-widget/widget"], this, function (widget) {
+})(["./create", "mu-jquery-widget/widget"], this, function (create, widget) {
   var slice = Array.prototype.slice;
 
-  return widget.extend(
+  return create(widget.concat(), (
     function ($element, ns, opt) {
       var me = this;
       var $ = $element.constructor;
