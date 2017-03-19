@@ -10,7 +10,7 @@
     });
   });
 
-  umd("mu-jquery-app-hub/create")(["mu-jquery-app/create", "./hub"], function (create, hub) {
+  umd("mu-jquery-app-hub/create")(["mu-jquery-widget/create", "./hub"], function (create, hub) {
     return create.extend(hub);
   });
 

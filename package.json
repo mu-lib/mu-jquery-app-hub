@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mu-lib/mu-jquery-app-hub#readme",
   "dependencies": {
-    "mu-jquery-app": "^12.0.0"
+    "mu-jquery-app": "^13.0.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
