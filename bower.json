@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "jquery": "^3.0.0",
-    "mu-jquery-app": "^13.0.1",
+    "mu-jquery-app": "^13.1.0",
     "mu-jquery-hub": "^1.1.5"
   }
 }
