@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="6.0.1"></a>
+## [6.0.1](https://github.com/mu-lib/mu-jquery-app-hub/compare/v6.0.0...v6.0.1) (2017-03-23)
+
+
+### Bug Fixes
+
+* don't remove events in finalize ([2a09097](https://github.com/mu-lib/mu-jquery-app-hub/commit/2a09097))
+
+
+
 <a name="6.0.0"></a>
 # [6.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v5.1.0...v6.0.0) (2017-03-22)
 
