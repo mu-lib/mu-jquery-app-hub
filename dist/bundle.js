@@ -44,8 +44,6 @@
         $.each(subscriptions, function (index, s) {
           me.unsubscribe(s.topic, s.handler);
         });
-
-        me.off("." + me.ns);
       });
     },
       {
