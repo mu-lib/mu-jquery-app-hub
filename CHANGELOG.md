@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="7.0.0"></a>
+# [7.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v6.0.2...v7.0.0) (2017-04-06)
+
+
+### Bug Fixes
+
+* remove broken CJS bundling ([7a04dff](https://github.com/mu-lib/mu-jquery-app-hub/commit/7a04dff))
+
+
+### Features
+
+* bump deps ([7ddac01](https://github.com/mu-lib/mu-jquery-app-hub/commit/7ddac01))
+
+
+### BREAKING CHANGES
+
+* mu-jquery-app breaks changes
+
+
+
 <a name="6.0.2"></a>
 ## [6.0.2](https://github.com/mu-lib/mu-jquery-app-hub/compare/v6.0.1...v6.0.2) (2017-03-23)
 
