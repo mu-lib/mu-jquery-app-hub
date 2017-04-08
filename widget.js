@@ -13,7 +13,6 @@
 
   return create(widget.concat(), function ($element, ns, opt) {
     var me = this;
-    var $ = $element.constructor;
     var hub = opt.hub;
     var subscriptions = [];
 
@@ -35,7 +34,7 @@
     };
 
     me.on("finalize", function () {
-      $.each(subscriptions, function (index, s) {
+      me.$.each(subscriptions, function (index, s) {
         me.unsubscribe(s.topic, s.handler);
       });
     });
@@ -44,7 +43,7 @@
       "on/initialize": function () {
         var me = this;
 
-        me.$element.constructor.each(me.constructor.hub, function (index, op) {
+        me.$.each(me.constructor.hub, function (index, op) {
           me.subscribe(op.topic, op.handler);
         });
       }
