@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="8.0.0"></a>
+# [8.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v7.1.0...v8.0.0) (2017-04-08)
+
+
+### Bug Fixes
+
+* bump deps ([96d0e51](https://github.com/mu-lib/mu-jquery-app-hub/commit/96d0e51))
+
+
+### BREAKING CHANGES
+
+* `mu-jquery-capture/add` has changed signature from `add.call($, $.event.add)` to simply `add($)`
+
+
+
 <a name="7.1.0"></a>
 # [7.1.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v7.0.0...v7.1.0) (2017-04-08)
 
