@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="8.1.0"></a>
+# [8.1.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v8.0.0...v8.1.0) (2017-04-09)
+
+
+### Features
+
+* bumped deps ([5cae207](https://github.com/mu-lib/mu-jquery-app-hub/commit/5cae207))
+
+
+
 <a name="8.0.0"></a>
 # [8.0.0](https://github.com/mu-lib/mu-jquery-app-hub/compare/v7.1.0...v8.0.0) (2017-04-08)
 
